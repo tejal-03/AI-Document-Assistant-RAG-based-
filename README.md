@@ -76,7 +76,7 @@ uv run langgraph dev
 langgraph dev
 ```
 
-Open LangGraph Studio: <https://smith.langchain.com/studio/?baseUrl=http://127.0.0.1:2024>
+
 
 #### Frontend
 
@@ -119,14 +119,7 @@ The agent uses a docs-first research strategy:
 4. **Link Validation** - Verifies any URLs before including them
 5. **Response Generation** - Synthesizes a helpful answer
 
-## Deployment
 
-### LangGraph Cloud
-
-1. Push to GitHub
-2. Connect repository in [LangSmith](https://smith.langchain.com/)
-3. Configure environment variables
-4. Deploy
 
 ## Resources
 
@@ -134,6 +127,3 @@ The agent uses a docs-first research strategy:
 - [LangGraph Documentation](https://docs.langchain.com/oss/python/langgraph/overview)
 - [LangSmith Documentation](https://docs.langchain.com/langsmith/home)
 
-## License
-
-MIT
